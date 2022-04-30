@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1077751637453",
+    "project_id": "fir-login-c4914",
+    "storage_bucket": "fir-login-c4914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077751637453:android:8c9b939cbdc79651505084",
+        "android_client_info": {
+          "package_name": "valdez.ignacio.practica13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077751637453-j1h6f0hebdus1ebhb22gcql551p9rvqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "valdez.ignacio.practica13",
+            "certificate_hash": "d41ef8396fce4e86d3252b9c982b08702d01d0bf"
+          }
+        },
+        {
+          "client_id": "1077751637453-pac7vfej29lntdvmpibn6b6uclb6r7od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7T_9af69vv6jmkwkyz3PcLUf9HFPWmAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077751637453-pac7vfej29lntdvmpibn6b6uclb6r7od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
